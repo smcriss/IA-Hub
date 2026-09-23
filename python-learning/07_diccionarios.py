@@ -1,9 +1,11 @@
 ##
 
 person = {
-    "name": "Cris",
+    "name" : "Cris",
     "age" : 20,
-    "country": "Chile"
+    "country": "Chile",
+    "job" : "Desempleado",
+    "language" : "Spanish",
 }
 
 """
@@ -11,7 +13,7 @@ print(person["name"])
 print(person["age"])
 print(person["country"])
 """
-person["language"] = "Spanish"
+
 for key in person:
     print(key)
 
@@ -28,3 +30,20 @@ if "city" in person:
     print("La clave city existe")
 else:
     print("La clave city no existe")
+
+if "job" in person:
+    print(person["job"])
+else:
+    print("No hay información sobre el trabajo")
+
+if "language" in person:
+    print(f"Idioma: {person["language"]}")
+else:
+    print("Idioma no registrado")
+
+if "country" in person:
+    print(f"El país es: {person["country"]}")
+else:
+    print("País no registrado")
+
+print(person.get("city", "Ciudad no encontrada"))
