@@ -27,3 +27,35 @@ Ich arbeite mit kleinen, regelmäßigen Übungen und erweitere das Repository Sc
 Mein Ziel ist es, mich systematisch auf eine **Ausbildung im IT-Bereich in Deutschland ab 2027** vorzubereiten und dabei eine solide Grundlage in Programmierung, Linux, Versionskontrolle und allgemeiner IT aufzubauen.
 
 **Status:** laufendes Lernprojekt – wird regelmäßig erweitert.
+
+---
+
+# IA-Hub · English
+
+Personal learning and practice project by Cristóbal Sánchez Mardones.
+
+IA-Hub documents my continuous path into IT and vocational training in Germany. I use this repository to study regularly at home, keep practical exercises, and make my progress visible over time.
+
+## Current learning focus
+
+- **Python:** variables, constants, data types, conditions, loops, lists, dictionaries, functions, and simple programs
+- **Linux:** Ubuntu, terminal, VS Code, and Python virtual environments
+- **Git & GitHub:** repositories, status, changes, commits, and version control
+- **IT fundamentals:** PC hardware, component selection, Windows and Linux installation, system setup, and initial troubleshooting
+
+## Repository structure
+
+- `python-learning/` – Python exercises and learning scripts
+- `notes/` – notes and summaries
+- `projects/` – future practical projects
+- `ai-router/` – space for future experiments and extensions
+
+## Learning approach
+
+I work with small, regular exercises and expand the repository step by step. Each new section reflects what I am currently learning and how I apply my understanding in practice.
+
+## Goal
+
+My goal is to prepare systematically for an **IT Ausbildung in Germany starting in 2027** while building a solid foundation in programming, Linux, version control, and general IT.
+
+**Status:** ongoing learning project – regularly updated as I continue learning.
