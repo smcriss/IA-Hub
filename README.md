@@ -1,6 +1,6 @@
 # IA-Hub
 
-Persönliches Lern- und Praxisprojekt von Cristóbal Sánchez Mardones.
+Persönliches Lern- und Praxisprojekt von Cristóbal Sánchez M.
 
 IA-Hub dokumentiert meinen kontinuierlichen Lernweg in Richtung IT und Ausbildung in Deutschland. Ich nutze dieses Repository, um regelmäßig zu Hause zu lernen, Übungen zu speichern und meine Fortschritte nachvollziehbar festzuhalten.
 
