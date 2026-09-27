@@ -15,3 +15,13 @@ elif age > 18:
     print("Eres mayor de edad.")
 else:
     print("Eres menor de edad.")
+
+variablea = float(input("Ingrese el primer número: "))
+variableb = float(input("Ingrese el primer número: "))
+
+print("Resultado de la suma: ", variablea + variableb)
+print("Resultado de la resta: ", variablea - variableb)
+print("Resultado de la multipicación: ", variablea * variableb)
+print("Resultado de la división: ", variablea / variableb)
+
+print("\n¡Eso es todo, amigos!")
