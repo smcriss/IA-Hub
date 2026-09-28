@@ -8,7 +8,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-2ea44f?style=flat-square&logo=github&logoColor=white)
 ![Learning in progress](https://img.shields.io/badge/Learning%20in%20progress-2ea44f?style=flat-square)
 
-IA-Hub is my personal learning and practice project. I am building it step by step from home while learning Python, Linux, Git/GitHub, PC hardware, networking and general IT fundamentals.
+IA-Hub is my personal learning and practice project. I am building it step by step from home while learning Python, Linux, Git/GitHub, PC hardware and general IT fundamentals.
 
 This repository is not meant to present a finished product. It is a place where I can practise, document what I learn and see my progress over time. I want to understand the tools I use instead of simply copying solutions, so the project grows together with my knowledge.
 
@@ -26,10 +26,10 @@ The final system does not exist yet. IA-Hub is the learning path that should hel
 - **Linux:** Ubuntu, terminal usage, VS Code and Python virtual environments
 - **Git & GitHub:** repositories, status, changes, commits and version control
 - **PC hardware:** components, installation, system setup and first troubleshooting steps
-- **Cisco courses:** current learning in networking and general IT fundamentals through Cisco learning material
+- **Cisco Python course:** currently learning Python through Cisco's learning material
 - **Next steps:** modules, files, JSON, APIs, automation and later an AI router
 
-The Python learning section currently includes exercises from `01_hello.py` to `08_funciones.py`, covering the first steps from basic output and variables to loops, lists, dictionaries and simple functions.
+The Python learning section currently includes exercises from `01_hello.py` to `09_calculo_impuesto.py`, covering the first steps from basic output and variables to loops, lists, dictionaries, simple functions and a first practical calculation exercise.
 
 ## Repository structure 📁
 
@@ -42,7 +42,7 @@ The repository will evolve as these areas are developed. The structure is part o
 
 ## Learning approach 🛠️
 
-I work with small, regular exercises and try to understand each step before moving forward. I use VS Code, Ubuntu, Git and online learning resources, including Cisco courses, while keeping the work organised in GitHub.
+I work with small, regular exercises and try to understand each step before moving forward. I use VS Code, Ubuntu, Git and online learning resources, including a Cisco Python course, while keeping the work organised in GitHub.
 
 The goal is to build steadily: learn a concept, practise it, document it and eventually connect it to something more useful.
 
@@ -54,7 +54,7 @@ My objective is not to pretend that I already know everything. It is to keep lea
 
 ## Related repositories 🔗
 
-- [Python_smcriss](https://github.com/smcriss/Python_smcriss) — additional Python practice
+- [python-learn-rep](https://github.com/smcriss/python-learn-rep) — additional Python practice
 - [GitHub profile](https://github.com/smcriss) — background, interests and other projects
 
 **Status:** active learning project — updated as I continue learning.
@@ -71,7 +71,7 @@ My objective is not to pretend that I already know everything. It is to keep lea
 ![GitHub](https://img.shields.io/badge/GitHub-2ea44f?style=flat-square&logo=github&logoColor=white)
 ![Lernen läuft](https://img.shields.io/badge/Lernen%20läuft-2ea44f?style=flat-square)
 
-IA-Hub ist mein persönliches Lern- und Praxisprojekt. Ich baue es Schritt für Schritt zu Hause auf und lerne dabei Python, Linux, Git/GitHub, PC-Hardware, Netzwerke und allgemeine IT-Grundlagen.
+IA-Hub ist mein persönliches Lern- und Praxisprojekt. Ich baue es Schritt für Schritt zu Hause auf und lerne dabei Python, Linux, Git/GitHub, PC-Hardware und allgemeine IT-Grundlagen.
 
 Dieses Repository soll kein fertiges Produkt darstellen. Es ist ein Ort, an dem ich üben, meine Lerninhalte dokumentieren und meine Fortschritte über längere Zeit sichtbar machen kann. Ich möchte die Werkzeuge, die ich benutze, wirklich verstehen und nicht einfach nur Lösungen kopieren. Deshalb wächst das Projekt zusammen mit meinen Kenntnissen.
 
@@ -89,10 +89,10 @@ Dieses endgültige System existiert noch nicht. IA-Hub ist der Lernweg, mit dem 
 - **Linux:** Ubuntu, Arbeit mit dem Terminal, VS Code und virtuelle Python-Umgebungen
 - **Git & GitHub:** Repositories, Status, Änderungen, Commits und Versionskontrolle
 - **PC-Hardware:** Komponenten, Installation, Einrichtung und erste Schritte bei der Fehlersuche
-- **Cisco-Kurse:** Aktuelles Lernen von Netzwerk- und allgemeinen IT-Grundlagen mit Cisco-Lernmaterial
+- **Cisco-Pythonkurs:** Aktuelles Lernen von Python mit Cisco-Lernmaterial
 - **Nächste Schritte:** Module, Dateien, JSON, APIs, Automatisierung und später ein AI-Router
 
-Der Bereich für Python enthält zurzeit Übungen von `01_hello.py` bis `08_funciones.py`. Dabei geht es um die ersten Schritte von einfacher Ausgabe und Variablen bis zu Schleifen, Listen, Dictionaries und einfachen Funktionen.
+Der Bereich für Python enthält zurzeit Übungen von `01_hello.py` bis `09_calculo_impuesto.py`. Dabei geht es um die ersten Schritte von einfacher Ausgabe und Variablen bis zu Schleifen, Listen, Dictionaries, einfachen Funktionen und einer ersten praktischen Rechenaufgabe.
 
 ## Repository-Struktur 📁
 
@@ -105,7 +105,7 @@ Das Repository wird sich weiterentwickeln, sobald diese Bereiche aufgebaut werde
 
 ## Meine Lernmethode 🛠️
 
-Ich arbeite mit kleinen, regelmäßigen Übungen und versuche, jeden Schritt zu verstehen, bevor ich weitermache. Dafür nutze ich VS Code, Ubuntu, Git und Online-Lernmaterial, unter anderem Cisco-Kurse, und organisiere meine Fortschritte in GitHub.
+Ich arbeite mit kleinen, regelmäßigen Übungen und versuche, jeden Schritt zu verstehen, bevor ich weitermache. Dafür nutze ich VS Code, Ubuntu, Git und Online-Lernmaterial, unter anderem einen Cisco-Pythonkurs, und organisiere meine Fortschritte in GitHub.
 
 Mein Ziel ist ein kontinuierlicher Aufbau: ein Konzept lernen, es praktisch anwenden, dokumentieren und später mit etwas Nützlicherem verbinden.
 
@@ -117,7 +117,7 @@ Mein Ziel ist nicht, so zu tun, als würde ich bereits alles beherrschen. Ich m�
 
 ## Verwandte Repositories 🔗
 
-- [Python_smcriss](https://github.com/smcriss/Python_smcriss) — zusätzliche Python-Übungen
+- [python-learn-rep](https://github.com/smcriss/python-learn-rep) — zusätzliche Python-Übungen
 - [GitHub-Profil](https://github.com/smcriss) — Hintergrund, Interessen und weitere Projekte
 
 **Status:** aktives Lernprojekt — wird während meines Lernwegs regelmäßig erweitert.
