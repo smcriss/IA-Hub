@@ -77,3 +77,25 @@ while number != 0:
 # Imprimir resultados.
 print("Conteo de números impares:", odd_numbers)
 print("Conteo de números pares:", even_numbers)
+
+# Ejercicio: adivinar el número secreto
+secret_number = 777
+
+print(
+"""
++================================+
+| ¡Bienvenido a mi juego, muggle!|
+| Introduce un número entero     |
+| y adivina qué número he        |
+| elegido para ti.               |
+|¿Cuál es el número secreto?     |
++================================+
+""")
+
+nummer = int(input("Ingresalo aquí: "))
+
+while nummer != secret_number:
+    print("Ja! Estas atrapado en mi bucle!!")
+    nummer = int(input("Prueba otra vez loser: "))
+
+print("Bien hecho rana! sigue haciendo magia!")
