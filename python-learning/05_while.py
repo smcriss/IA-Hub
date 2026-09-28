@@ -52,11 +52,28 @@ for i in range(1, 11):
         contador = contador + 1
 print(contador)
 
-   
+# Ejercicio: contar números pares e impares hasta introducir 0
+# El programa termina cuando se ingresa un cero.
 
+odd_numbers = 0
+even_numbers = 0
 
-    
+# Lee el primer número.
+number = int(input("Introduce un número o escribe 0 para detener: "))
 
+# 0 termina la ejecución.
+while number != 0:
+    # Verificar si el número es impar.
+    if number % 2 == 1:
+        # Incrementar el contador de números impares.
+        odd_numbers += 1
+    else:
+        # Incrementar el contador de números pares.
+        even_numbers += 1
 
+    # Leer el siguiente número.
+    number = int(input("Introduce un número o escribe 0 para detener: "))
 
-
+# Imprimir resultados.
+print("Conteo de números impares:", odd_numbers)
+print("Conteo de números pares:", even_numbers)
