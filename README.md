@@ -29,7 +29,7 @@ The final system does not exist yet. IA-Hub is the learning path that should hel
 - **Cisco Python course:** currently learning Python through Cisco's learning material
 - **Next steps:** modules, files, JSON, APIs, automation and later an AI router
 
-The Python learning section currently includes exercises from `01_hello.py` to `09_calculo_impuesto.py`, covering the first steps from basic output and variables to loops, lists, dictionaries, simple functions and a first practical calculation exercise.
+The Python learning section currently includes exercises from `01_hello.py` to `08_funciones.py`. The conditional practice in `02_variables.py` now also includes an annual tax calculation and a Gregorian calendar leap-year check.
 
 ## Repository structure 📁
 
@@ -92,7 +92,7 @@ Dieses endgültige System existiert noch nicht. IA-Hub ist der Lernweg, mit dem 
 - **Cisco-Pythonkurs:** Aktuelles Lernen von Python mit Cisco-Lernmaterial
 - **Nächste Schritte:** Module, Dateien, JSON, APIs, Automatisierung und später ein AI-Router
 
-Der Bereich für Python enthält zurzeit Übungen von `01_hello.py` bis `09_calculo_impuesto.py`. Dabei geht es um die ersten Schritte von einfacher Ausgabe und Variablen bis zu Schleifen, Listen, Dictionaries, einfachen Funktionen und einer ersten praktischen Rechenaufgabe.
+Der Bereich für Python enthält zurzeit Übungen von `01_hello.py` bis `08_funciones.py`. Im Bereich der Bedingungen in `02_variables.py` sind jetzt zusätzlich eine jährliche Steuerberechnung und die Prüfung eines Schaltjahres nach dem Gregorianischen Kalender enthalten.
 
 ## Repository-Struktur 📁
 
