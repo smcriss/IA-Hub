@@ -99,3 +99,17 @@ while nummer != secret_number:
     nummer = int(input("Prueba otra vez loser: "))
 
 print("Bien hecho rana! sigue haciendo magia!")
+
+blocks = int(input("Ingresa el número de bloques: "))
+
+hoch = 0
+layer = 1
+
+while blocks >= layer:
+    hoch += 1
+    blocks -= layer
+    layer += 1
+    if blocks < layer:
+        break
+        
+print("La altura de la pirámide:", hoch)
