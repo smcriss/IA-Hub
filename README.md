@@ -55,8 +55,9 @@ My objective is not to pretend that I already know everything. It is to keep lea
 
 ## Related repositories 🔗
 
-- [python-learn-rep](https://github.com/smcriss/python-learn-rep) — additional Python practice
-- [GitHub profile](https://github.com/smcriss) — background, interests and other projects
+[![Python practice](https://img.shields.io/badge/Python-Practice_Repository-2ea44f?style=for-the-badge&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep) — additional Python practice
+
+[![GitHub profile](https://img.shields.io/badge/GitHub-Profile-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss) — background, interests and other projects
 
 **Status:** active learning project — updated as I continue learning.
 
@@ -119,7 +120,8 @@ Mein Ziel ist nicht, so zu tun, als würde ich bereits alles beherrschen. Ich m�
 
 ## Verwandte Repositories 🔗
 
-- [python-learn-rep](https://github.com/smcriss/python-learn-rep) — zusätzliche Python-Übungen
-- [GitHub-Profil](https://github.com/smcriss) — Hintergrund, Interessen und weitere Projekte
+[![Python-Übungen](https://img.shields.io/badge/Python-Uebungsrepository-2ea44f?style=for-the-badge&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep) — zusätzliche Python-Übungen
+
+[![GitHub-Profil](https://img.shields.io/badge/GitHub-Profil-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss) — Hintergrund, Interessen und weitere Projekte
 
 **Status:** aktives Lernprojekt — wird während meines Lernwegs regelmäßig erweitert.
