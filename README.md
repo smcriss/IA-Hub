@@ -1,214 +1,123 @@
-# 🤖 IA Hub
+# IA-Hub 🤖
 
-> 🇬🇧 English first · 🇩🇪 Die deutsche Version findest du weiter unten.
+> A practical learning project for Python, Linux, Git/GitHub, IT fundamentals and the future development of a personal automated AI hub.
 
-![Python](https://img.shields.io/badge/Python-Learning-2ea44f?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-238636?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Learning_Log-2ea44f?style=for-the-badge&logo=github&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active_Learning-238636?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-2ea44f?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2ea44f?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2ea44f?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2ea44f?style=flat-square&logo=github&logoColor=white)
+![Learning in progress](https://img.shields.io/badge/Learning%20in%20progress-2ea44f?style=flat-square)
 
-## 🇬🇧 English
+IA-Hub is my personal learning and practice project. I am building it step by step from home while learning Python, Linux, Git/GitHub, PC hardware and general IT fundamentals.
 
-IA Hub is my personal learning project for programming, automation and artificial intelligence.
+This repository is not meant to present a finished product. It is a place where I can practise, document what I learn and see my progress over time. I want to understand the tools I use instead of simply copying solutions, so the project grows together with my knowledge.
 
-The final idea is to build my own automated AI hub: a place where different tools, scripts and future AI components can work together. I am building toward that goal gradually. For now, the repository documents the foundations I am learning, the exercises I solve and the way my thinking changes as the problems become more difficult.
+## Why I am building it 🌱
 
-This is not a finished product or a collection of copied solutions. It is a working learning space.
+I want to create a practical environment where learning and building happen together. Each exercise gives me a chance to understand a new concept, use it in practice and keep a record of the progress.
 
-## 🌱 Progress so far
+The long-term idea is to gradually develop my own personal, automated AI hub: a useful space where different AI tools, models and workflows can be brought together and used from one place. In the future, this could include an AI router that helps organise how different models and tools are used.
 
-### Python foundations
+The final system does not exist yet. IA-Hub is the learning path that should help me build it properly, one understandable step at a time.
 
-- Output with `print()` and interactive input with `input()`
-- Variables, numbers, strings, Boolean values and type conversion
-- String concatenation, formatting and methods such as `upper()`
-- Arithmetic, comparison and logical operators
+## Current learning focus 🧩
 
-### Decisions and program flow
+- **Python:** variables, constants, data types, conditions, loops, lists, dictionaries and functions, now combined in increasingly complete mini-programs
+- **Linux:** Ubuntu, terminal usage, VS Code and Python virtual environments
+- **Git & GitHub:** repositories, status, changes, commits and version control
+- **PC hardware:** components, installation, system setup and first troubleshooting steps
+- **Cisco Python course:** currently learning Python through Cisco's learning material
+- **Next steps:** modules, files, JSON, APIs, automation and later an AI router
 
-- `if`, `elif` and `else`
-- Nested conditional logic
-- Checking several possible outcomes in one program
-- Tax calculation with different income ranges
-- Gregorian leap-year validation
+My recent work goes beyond isolated beginner exercises. I am learning to combine conditions, loops, lists, dictionaries, functions, user input and validation to build more complete mini-programs and solve increasingly demanding logic problems. I am also beginning to study binary representation, bitwise operators and bit masks.
 
-### Loops and problem solving
+## Repository structure 📁
 
-- `while` loops and user-controlled repetition
-- `for` loops with `range()`
-- Counters, conditions inside loops and `continue`
-- Counting even and odd numbers until a stop value is entered
-- Secret-number guessing game
-- Vowel-eater exercises
-- Building a pyramid with a loop
-- Collatz sequence practice
+- `python-learning/` — current Python exercises and learning scripts
+- `notes/` — planned space for notes, explanations and summaries
+- `projects/` — planned space for practical projects
+- `ai-router/` — future area for experiments related to connecting and organising AI tools
 
-### Data structures and functions
+The repository will evolve as these areas are developed. The structure is part of the learning process, not a claim that every planned component is already finished.
 
-- Creating, reading and updating lists
-- Working with dictionaries and key-value data
-- Iterating through stored information
-- Writing functions to organize reusable logic
+## Learning approach 🛠️
 
-### Tools and workflow
+I work with small, regular exercises and try to understand each step before moving forward. I use VS Code, Ubuntu, Git and online learning resources, including a Cisco Python course, while keeping the work organised in GitHub.
 
-- Ubuntu and terminal basics
-- VS Code as my main editor
-- Python virtual environments
-- Basic package management with `pip`
-- Git and GitHub for commits, organization and progress tracking
+The goal is to build steadily: learn a concept, practise it, document it and eventually connect it to something more useful.
 
-## 🔎 What I am learning now
+## Connection with my future 🎯
 
-I am currently moving beyond the first Python basics and studying how numbers are represented in binary, how bitwise operators work and how bit masks can be used. These topics are still in progress, so they are listed here as current study rather than finished knowledge.
+IA-Hub is part of my preparation for an **IT Ausbildung in Germany starting in August/September 2027**. It gives me a practical way to develop programming, Linux, networking, version control and general IT knowledge while creating a visible record of my progress. I have already started sending applications while continuing to learn and improve the project.
 
-## 🧪 Exercises in this repository
+My objective is not to pretend that I already know everything. It is to keep learning consistently and turn that progress into real technical ability, useful projects and, eventually, a personal AI hub that I understand from the inside.
 
-The exercises are organized by topic and have grown together with my learning. Current examples include:
+## Related repositories 🔗
 
-- Variables, data types and operators
-- Boolean expressions and conditional logic
-- Tax and leap-year calculations
-- `while` and `for` loop practice
-- Even/odd counters
-- Secret-number game
-- Vowel processing with `continue`
-- Pyramid and Collatz exercises
-- Lists, dictionaries and functions
+- [python-learn-rep](https://github.com/smcriss/python-learn-rep) — additional Python practice
+- [GitHub profile](https://github.com/smcriss) — background, interests and other projects
 
-I keep the early exercises because they show where the project started. Newer exercises show how I am learning to combine several concepts instead of practicing them separately.
-
-## 🗂️ Repository direction
-
-- **`python-learning/`** — Python exercises organized by concept
-- **`notes/`** — explanations and personal notes
-- **`projects/`** — small projects built from what I have learned
-- **`ai-router/`** — planned area for future AI routing and automation experiments
-
-Some folders are still being developed. The structure will continue to change when the code actually needs it.
-
-## 🧭 Next steps
-
-- Practice binary numbers, bitwise operations and masks
-- Write larger exercises that combine functions, lists, dictionaries and loops
-- Improve code organization with modules and files
-- Learn to work with JSON and APIs
-- Begin small automation experiments
-- Gradually test ideas for the future IA Hub router
-
-## 🎯 Why I am building it
-
-IA Hub gives me one place to turn theory into code and keep a visible record of progress. I have also started applying for IT Ausbildung positions in Germany for 2027, so the repository supports that preparation by showing consistent, practical learning.
-
-The bigger goal remains personal: to understand each part well enough to eventually connect scripts, automation and AI tools into a hub that I built and can continue improving myself.
-
-## 📫 Contact
-
-- [GitHub profile](https://github.com/smcriss)
-- [smcristobal07@gmail.com](mailto:smcristobal07@gmail.com)
-
-_Last updated: September 2026_
+**Status:** active learning project — updated as I continue learning.
 
 ---
 
-## 🇩🇪 Deutsch
+# IA-Hub 🤖
 
-IA Hub ist mein persönliches Lernprojekt rund um Programmierung, Automatisierung und künstliche Intelligenz.
+> Ein praktisches Lernprojekt für Python, Linux, Git/GitHub, IT-Grundlagen und die spätere Entwicklung eines persönlichen automatisierten KI-Hubs.
 
-Die langfristige Idee ist, meinen eigenen automatisierten KI-Hub zu entwickeln: einen Ort, an dem verschiedene Werkzeuge, Skripte und spätere KI-Komponenten zusammenarbeiten können. Ich nähere mich diesem Ziel Schritt für Schritt. Zurzeit dokumentiert das Repository die Grundlagen, die ich lerne, die Übungen, die ich löse, und die Entwicklung meines Denkens, während die Aufgaben schwieriger werden.
+![Python](https://img.shields.io/badge/Python-2ea44f?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2ea44f?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2ea44f?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2ea44f?style=flat-square&logo=github&logoColor=white)
+![Lernen läuft](https://img.shields.io/badge/Lernen%20läuft-2ea44f?style=flat-square)
 
-Es handelt sich nicht um ein fertiges Produkt oder eine Sammlung kopierter Lösungen. Es ist ein aktiver Lernort.
+IA-Hub ist mein persönliches Lern- und Praxisprojekt. Ich baue es Schritt für Schritt zu Hause auf und lerne dabei Python, Linux, Git/GitHub, PC-Hardware und allgemeine IT-Grundlagen.
 
-## 🌱 Mein bisheriger Fortschritt
+Dieses Repository soll kein fertiges Produkt darstellen. Es ist ein Ort, an dem ich üben, meine Lerninhalte dokumentieren und meine Fortschritte über längere Zeit sichtbar machen kann. Ich möchte die Werkzeuge, die ich benutze, wirklich verstehen und nicht einfach nur Lösungen kopieren. Deshalb wächst das Projekt zusammen mit meinen Kenntnissen.
 
-### Python-Grundlagen
+## Warum ich es aufbaue 🌱
 
-- Ausgaben mit `print()` und interaktive Eingaben mit `input()`
-- Variablen, Zahlen, Strings, boolesche Werte und Typumwandlung
-- String-Verkettung, Formatierung und Methoden wie `upper()`
-- Arithmetische Operatoren, Vergleichsoperatoren und logische Operatoren
+Ich möchte eine praktische Umgebung schaffen, in der Lernen und Bauen miteinander verbunden sind. Jede Übung hilft mir dabei, ein neues Konzept zu verstehen, es praktisch anzuwenden und meinen Fortschritt festzuhalten.
 
-### Entscheidungen und Programmablauf
+Die langfristige Idee ist, Schritt für Schritt meinen eigenen persönlichen und automatisierten KI-Hub zu entwickeln: einen nützlichen Ort, an dem verschiedene KI-Werkzeuge, Modelle und Workflows miteinander verbunden und von einer Stelle aus genutzt werden können. Später könnte daraus auch ein AI-Router entstehen, der dabei hilft, verschiedene Modelle und Werkzeuge zu organisieren.
 
-- `if`, `elif` und `else`
-- Verschachtelte Bedingungen
-- Prüfung mehrerer möglicher Ergebnisse in einem Programm
-- Steuerberechnung mit unterschiedlichen Einkommensbereichen
-- Prüfung gregorianischer Schaltjahre
+Dieses endgültige System existiert noch nicht. IA-Hub ist der Lernweg, mit dem ich es später richtig und nachvollziehbar aufbauen möchte — Schritt für Schritt und mit einem Verständnis für jeden einzelnen Teil.
 
-### Schleifen und logisches Denken
+## Aktueller Lernfokus 🧩
 
-- `while`-Schleifen und durch Eingaben gesteuerte Wiederholungen
-- `for`-Schleifen mit `range()`
-- Zähler, Bedingungen innerhalb von Schleifen und `continue`
-- Zählen gerader und ungerader Zahlen bis zur Eingabe eines Stoppwertes
-- Zahlenratespiel
-- Übungen zur Verarbeitung von Vokalen
-- Aufbau einer Pyramide mit einer Schleife
-- Übungen zur Collatz-Folge
+- **Python:** Variablen, Konstanten, Datentypen, Bedingungen, Schleifen, Listen, Dictionaries und Funktionen, die ich inzwischen in zunehmend vollständigeren Miniprogrammen kombiniere
+- **Linux:** Ubuntu, Arbeit mit dem Terminal, VS Code und virtuelle Python-Umgebungen
+- **Git & GitHub:** Repositories, Status, Änderungen, Commits und Versionskontrolle
+- **PC-Hardware:** Komponenten, Installation, Einrichtung und erste Schritte bei der Fehlersuche
+- **Cisco-Pythonkurs:** Aktuelles Lernen von Python mit Cisco-Lernmaterial
+- **Nächste Schritte:** Module, Dateien, JSON, APIs, Automatisierung und später ein AI-Router
 
-### Datenstrukturen und Funktionen
+Meine aktuellen Übungen gehen über einzelne Anfängeraufgaben hinaus. Ich lerne, Bedingungen, Schleifen, Listen, Dictionaries, Funktionen, Benutzereingaben und Validierung in vollständigeren Miniprogrammen zu verbinden und zunehmend anspruchsvollere Logikprobleme zu lösen. Außerdem beginne ich mit Binärdarstellung, bitweisen Operatoren und Bitmasken.
 
-- Listen erstellen, lesen und verändern
-- Arbeiten mit Dictionaries und Schlüssel-Wert-Daten
-- Gespeicherte Informationen durchlaufen
-- Funktionen schreiben, um wiederverwendbare Logik zu organisieren
+## Repository-Struktur 📁
 
-### Werkzeuge und Arbeitsweise
+- `python-learning/` — aktuelle Python-Übungen und Lernskripte
+- `notes/` — geplanter Bereich für Notizen, Erklärungen und Zusammenfassungen
+- `projects/` — geplanter Bereich für praktische Projekte
+- `ai-router/` — zukünftiger Bereich für Experimente zum Verbinden und Organisieren von KI-Werkzeugen
 
-- Ubuntu und Grundlagen im Terminal
-- VS Code als Haupteditor
-- Virtuelle Python-Umgebungen
-- Grundlegende Paketverwaltung mit `pip`
-- Git und GitHub für Commits, Organisation und Fortschrittsdokumentation
+Das Repository wird sich weiterentwickeln, sobald diese Bereiche aufgebaut werden. Die Struktur beschreibt deshalb auch die Richtung des Projekts und bedeutet nicht, dass jede geplante Komponente bereits fertig ist.
 
-## 🔎 Was ich gerade lerne
+## Meine Lernmethode 🛠️
 
-Aktuell gehe ich über die ersten Python-Grundlagen hinaus und beschäftige mich mit der Binärdarstellung von Zahlen, bitweisen Operatoren und Bitmasken. Diese Themen befinden sich noch im Lernprozess und werden deshalb als aktuelles Lerngebiet und nicht als abgeschlossenes Wissen aufgeführt.
+Ich arbeite mit kleinen, regelmäßigen Übungen und versuche, jeden Schritt zu verstehen, bevor ich weitermache. Dafür nutze ich VS Code, Ubuntu, Git und Online-Lernmaterial, unter anderem einen Cisco-Pythonkurs, und organisiere meine Fortschritte in GitHub.
 
-## 🧪 Übungen in diesem Repository
+Mein Ziel ist ein kontinuierlicher Aufbau: ein Konzept lernen, es praktisch anwenden, dokumentieren und später mit etwas Nützlicherem verbinden.
 
-Die Übungen sind nach Themen organisiert und gemeinsam mit meinem Lernfortschritt gewachsen. Aktuelle Beispiele sind:
+## Verbindung zu meiner Zukunft 🎯
 
-- Variablen, Datentypen und Operatoren
-- Boolesche Ausdrücke und bedingte Logik
-- Steuer- und Schaltjahrberechnungen
-- Übungen mit `while`- und `for`-Schleifen
-- Zähler für gerade und ungerade Zahlen
-- Zahlenratespiel
-- Verarbeitung von Vokalen mit `continue`
-- Pyramiden- und Collatz-Übungen
-- Listen, Dictionaries und Funktionen
+IA-Hub ist Teil meiner Vorbereitung auf eine **IT-Ausbildung in Deutschland ab August/September 2027**. Das Projekt gibt mir eine praktische Möglichkeit, Programmierung, Linux, Netzwerke, Versionskontrolle und allgemeine IT-Kenntnisse zu entwickeln und gleichzeitig meinen Lernfortschritt sichtbar zu machen. Ich habe bereits begonnen, Bewerbungen zu versenden, während ich weiterlerne und das Projekt verbessere.
 
-Ich behalte die ersten Übungen bei, weil sie zeigen, wo das Projekt begonnen hat. Die neueren Aufgaben zeigen, wie ich lerne, mehrere Konzepte miteinander zu verbinden, statt sie nur einzeln zu üben.
+Mein Ziel ist nicht, so zu tun, als würde ich bereits alles beherrschen. Ich möchte kontinuierlich lernen und diesen Fortschritt in echte technische Fähigkeiten, nützliche Projekte und später in einen persönlichen KI-Hub verwandeln, dessen Funktionsweise ich wirklich verstehe.
 
-## 🗂️ Ausrichtung des Repositories
+## Verwandte Repositories 🔗
 
-- **`python-learning/`** — nach Konzepten geordnete Python-Übungen
-- **`notes/`** — Erklärungen und persönliche Notizen
-- **`projects/`** — kleine Projekte auf Basis des Gelernten
-- **`ai-router/`** — geplanter Bereich für spätere KI-Routing- und Automatisierungsexperimente
+- [python-learn-rep](https://github.com/smcriss/python-learn-rep) — zusätzliche Python-Übungen
+- [GitHub-Profil](https://github.com/smcriss) — Hintergrund, Interessen und weitere Projekte
 
-Einige Ordner befinden sich noch im Aufbau. Die Struktur wird sich weiterentwickeln, wenn der Code es tatsächlich erfordert.
-
-## 🧭 Nächste Schritte
-
-- Binärzahlen, bitweise Operationen und Masken weiter üben
-- Größere Aufgaben schreiben, die Funktionen, Listen, Dictionaries und Schleifen verbinden
-- Code mit Modulen und Dateien besser organisieren
-- Den Umgang mit JSON und APIs lernen
-- Mit kleinen Automatisierungen beginnen
-- Schrittweise Ideen für den späteren IA-Hub-Router testen
-
-## 🎯 Warum ich dieses Projekt entwickle
-
-IA Hub gibt mir einen Ort, an dem ich Theorie in Code umsetzen und meinen Fortschritt sichtbar festhalten kann. Ich habe außerdem mit Bewerbungen für IT-Ausbildungsplätze in Deutschland mit Start 2027 begonnen. Das Repository unterstützt diese Vorbereitung, indem es kontinuierliches und praktisches Lernen zeigt.
-
-Das größere Ziel bleibt persönlich: Ich möchte jeden Baustein gut genug verstehen, um später Skripte, Automatisierung und KI-Werkzeuge in einem eigenen Hub zu verbinden und selbstständig weiterzuentwickeln.
-
-## 📫 Kontakt
-
-- [GitHub-Profil](https://github.com/smcriss)
-- [smcristobal07@gmail.com](mailto:smcristobal07@gmail.com)
-
-_Zuletzt aktualisiert: September 2026_
+**Status:** aktives Lernprojekt — wird während meines Lernwegs regelmäßig erweitert.
