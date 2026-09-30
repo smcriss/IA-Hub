@@ -2,11 +2,11 @@
 
 > A practical learning project for Python, Linux, Git/GitHub, IT fundamentals and the future development of a personal automated AI hub.
 
-![Python](https://img.shields.io/badge/Python-2ea44f?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-2ea44f?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2ea44f?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2ea44f?style=flat-square&logo=github&logoColor=white)
-![Learning in progress](https://img.shields.io/badge/Learning%20in%20progress-2ea44f?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Learning-2ea44f?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-238636?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-2ea44f?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-IA_Hub-238636?style=for-the-badge&logo=github&logoColor=white)
+![Learning in progress](https://img.shields.io/badge/Status-Active_Learning-2ea44f?style=for-the-badge)
 
 IA-Hub is my personal learning and practice project. I am building it step by step from home while learning Python, Linux, Git/GitHub, PC hardware and general IT fundamentals.
 
@@ -66,11 +66,11 @@ My objective is not to pretend that I already know everything. It is to keep lea
 
 > Ein praktisches Lernprojekt für Python, Linux, Git/GitHub, IT-Grundlagen und die spätere Entwicklung eines persönlichen automatisierten KI-Hubs.
 
-![Python](https://img.shields.io/badge/Python-2ea44f?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-2ea44f?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2ea44f?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2ea44f?style=flat-square&logo=github&logoColor=white)
-![Lernen läuft](https://img.shields.io/badge/Lernen%20läuft-2ea44f?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Lernen-2ea44f?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-238636?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Versionskontrolle-2ea44f?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-IA_Hub-238636?style=for-the-badge&logo=github&logoColor=white)
+![Lernen läuft](https://img.shields.io/badge/Status-Aktives_Lernen-2ea44f?style=for-the-badge)
 
 IA-Hub ist mein persönliches Lern- und Praxisprojekt. Ich baue es Schritt für Schritt zu Hause auf und lerne dabei Python, Linux, Git/GitHub, PC-Hardware und allgemeine IT-Grundlagen.
 
