@@ -22,14 +22,15 @@ The final system does not exist yet. IA-Hub is the learning path that should hel
 
 ## Current learning focus 🧩
 
-- **Python:** variables, constants, data types, conditions, loops, lists, dictionaries and functions, now combined in increasingly complete mini-programs
-- **Linux:** Ubuntu, terminal usage, VS Code and Python virtual environments
-- **Git & GitHub:** repositories, status, changes, commits and version control
-- **PC hardware:** components, installation, system setup and first troubleshooting steps
-- **Cisco Python course:** currently learning Python through Cisco's learning material
-- **Next steps:** modules, files, JSON, APIs, automation and later an AI router
+- **Python development:** building interactive mini-programs by combining program flow, data structures, functions, user input and validation
+- **Problem-solving:** breaking problems into steps, designing the logic, testing results and correcting errors
+- **Current concepts:** binary representation, bitwise operators and bit masks
+- **Development environment:** Ubuntu, terminal usage, VS Code, Python virtual environments and `pip`
+- **Git & GitHub:** organising the repository, tracking changes, creating commits and documenting progress
+- **Cisco Python course:** progressing through Python Essentials and applying the material through independent practice
+- **Next steps:** strengthen structured Python → work with modules and files → learn error handling and data storage → use JSON and APIs → create automation scripts → experiment with an AI router
 
-My recent work goes beyond isolated beginner exercises. I am learning to combine conditions, loops, lists, dictionaries, functions, user input and validation to build more complete mini-programs and solve increasingly demanding logic problems. I am also beginning to study binary representation, bitwise operators and bit masks.
+My current goal is to stop treating each concept as an isolated exercise and connect them in increasingly complete programs. Each new stage of the repository should prepare a practical part of the future IA-Hub instead of adding features without understanding them.
 
 ## Repository structure 📁
 
@@ -85,14 +86,15 @@ Dieses endgültige System existiert noch nicht. IA-Hub ist der Lernweg, mit dem 
 
 ## Aktueller Lernfokus 🧩
 
-- **Python:** Variablen, Konstanten, Datentypen, Bedingungen, Schleifen, Listen, Dictionaries und Funktionen, die ich inzwischen in zunehmend vollständigeren Miniprogrammen kombiniere
-- **Linux:** Ubuntu, Arbeit mit dem Terminal, VS Code und virtuelle Python-Umgebungen
-- **Git & GitHub:** Repositories, Status, Änderungen, Commits und Versionskontrolle
-- **PC-Hardware:** Komponenten, Installation, Einrichtung und erste Schritte bei der Fehlersuche
-- **Cisco-Pythonkurs:** Aktuelles Lernen von Python mit Cisco-Lernmaterial
-- **Nächste Schritte:** Module, Dateien, JSON, APIs, Automatisierung und später ein AI-Router
+- **Python-Entwicklung:** Entwicklung interaktiver Miniprogramme durch die Verbindung von Programmabläufen, Datenstrukturen, Funktionen, Benutzereingaben und Validierung
+- **Logisches Denken:** Probleme in einzelne Schritte zerlegen, die Programmlogik planen, Ergebnisse testen und Fehler korrigieren
+- **Aktuelle Themen:** Binärdarstellung, bitweise Operatoren und Bitmasken
+- **Entwicklungsumgebung:** Ubuntu, Terminal, VS Code, virtuelle Python-Umgebungen und `pip`
+- **Git & GitHub:** Repository organisieren, Änderungen verfolgen, Commits erstellen und Fortschritte dokumentieren
+- **Cisco-Pythonkurs:** Fortschritt in Python Essentials und selbstständige Anwendung der Lerninhalte
+- **Nächste Schritte:** strukturiertes Python festigen → mit Modulen und Dateien arbeiten → Fehlerbehandlung und Datenspeicherung lernen → JSON und APIs verwenden → Automatisierungsskripte entwickeln → mit einem AI-Router experimentieren
 
-Meine aktuellen Übungen gehen über einzelne Anfängeraufgaben hinaus. Ich lerne, Bedingungen, Schleifen, Listen, Dictionaries, Funktionen, Benutzereingaben und Validierung in vollständigeren Miniprogrammen zu verbinden und zunehmend anspruchsvollere Logikprobleme zu lösen. Außerdem beginne ich mit Binärdarstellung, bitweisen Operatoren und Bitmasken.
+Mein aktuelles Ziel ist es, die einzelnen Konzepte nicht mehr nur getrennt zu üben, sondern sie in zunehmend vollständigeren Programmen miteinander zu verbinden. Jede neue Entwicklungsstufe des Repositories soll einen praktischen Teil des zukünftigen IA-Hubs vorbereiten, ohne Funktionen hinzuzufügen, die ich noch nicht verstehe.
 
 ## Repository-Struktur 📁
 
