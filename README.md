@@ -2,11 +2,11 @@
 
 > A practical learning project for Python, Linux, Git/GitHub, IT fundamentals and the future development of a personal automated AI hub.
 
-![Python](https://img.shields.io/badge/Python-Learning-2ea44f?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-238636?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-2ea44f?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-IA_Hub-238636?style=for-the-badge&logo=github&logoColor=white)
-![Learning in progress](https://img.shields.io/badge/Status-Active_Learning-2ea44f?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-IA_Hub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Learning in progress](https://img.shields.io/badge/Status-Active_Learning-0E7490?style=for-the-badge)
 
 IA-Hub is my personal learning and practice project. I am building it step by step from home while learning Python, Linux, Git/GitHub, PC hardware and general IT fundamentals.
 
@@ -47,17 +47,11 @@ I work with small, regular exercises and try to understand each step before movi
 
 The goal is to build steadily: learn a concept, practise it, document it and eventually connect it to something more useful.
 
-## Connection with my future 🎯
-
-IA-Hub is part of my preparation for an **IT Ausbildung in Germany starting in August/September 2027**. It gives me a practical way to develop programming, Linux, networking, version control and general IT knowledge while creating a visible record of my progress. I have already started sending applications while continuing to learn and improve the project.
-
-My objective is not to pretend that I already know everything. It is to keep learning consistently and turn that progress into real technical ability, useful projects and, eventually, a personal AI hub that I understand from the inside.
-
 ## Related repositories 🔗
 
-[![Python practice](https://img.shields.io/badge/Python-Practice_Repository-2ea44f?style=for-the-badge&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep) — additional Python practice
+[![Python practice](https://img.shields.io/badge/Python-Practice_Repository-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep) — additional Python practice
 
-[![GitHub profile](https://img.shields.io/badge/GitHub-Profile-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss) — background, interests and other projects
+[![GitHub profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss) — background, interests and other projects
 
 **Status:** active learning project — updated as I continue learning.
 
@@ -67,11 +61,11 @@ My objective is not to pretend that I already know everything. It is to keep lea
 
 > Ein praktisches Lernprojekt für Python, Linux, Git/GitHub, IT-Grundlagen und die spätere Entwicklung eines persönlichen automatisierten KI-Hubs.
 
-![Python](https://img.shields.io/badge/Python-Lernen-2ea44f?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-238636?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Versionskontrolle-2ea44f?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-IA_Hub-238636?style=for-the-badge&logo=github&logoColor=white)
-![Lernen läuft](https://img.shields.io/badge/Status-Aktives_Lernen-2ea44f?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Lernen-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Versionskontrolle-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-IA_Hub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Lernen läuft](https://img.shields.io/badge/Status-Aktives_Lernen-0E7490?style=for-the-badge)
 
 IA-Hub ist mein persönliches Lern- und Praxisprojekt. Ich baue es Schritt für Schritt zu Hause auf und lerne dabei Python, Linux, Git/GitHub, PC-Hardware und allgemeine IT-Grundlagen.
 
@@ -112,16 +106,10 @@ Ich arbeite mit kleinen, regelmäßigen Übungen und versuche, jeden Schritt zu 
 
 Mein Ziel ist ein kontinuierlicher Aufbau: ein Konzept lernen, es praktisch anwenden, dokumentieren und später mit etwas Nützlicherem verbinden.
 
-## Verbindung zu meiner Zukunft 🎯
-
-IA-Hub ist Teil meiner Vorbereitung auf eine **IT-Ausbildung in Deutschland ab August/September 2027**. Das Projekt gibt mir eine praktische Möglichkeit, Programmierung, Linux, Netzwerke, Versionskontrolle und allgemeine IT-Kenntnisse zu entwickeln und gleichzeitig meinen Lernfortschritt sichtbar zu machen. Ich habe bereits begonnen, Bewerbungen zu versenden, während ich weiterlerne und das Projekt verbessere.
-
-Mein Ziel ist nicht, so zu tun, als würde ich bereits alles beherrschen. Ich möchte kontinuierlich lernen und diesen Fortschritt in echte technische Fähigkeiten, nützliche Projekte und später in einen persönlichen KI-Hub verwandeln, dessen Funktionsweise ich wirklich verstehe.
-
 ## Verwandte Repositories 🔗
 
-[![Python-Übungen](https://img.shields.io/badge/Python-Uebungsrepository-2ea44f?style=for-the-badge&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep) — zusätzliche Python-Übungen
+[![Python-Übungen](https://img.shields.io/badge/Python-Uebungsrepository-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep) — zusätzliche Python-Übungen
 
-[![GitHub-Profil](https://img.shields.io/badge/GitHub-Profil-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss) — Hintergrund, Interessen und weitere Projekte
+[![GitHub-Profil](https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss) — Hintergrund, Interessen und weitere Projekte
 
 **Status:** aktives Lernprojekt — wird während meines Lernwegs regelmäßig erweitert.
