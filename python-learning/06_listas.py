@@ -14,3 +14,8 @@ if fruta in frutas:
 else:
     print("La fruta no está en la lista")
 
+##
+
+listvariable = [2, 5, 9, 3, 1, 7]
+
+
