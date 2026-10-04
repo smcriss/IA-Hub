@@ -18,4 +18,16 @@ else:
 
 listvariable = [2, 5, 9, 3, 1, 7]
 
+my_list = [1, 2, 4, 4, 1, 4, 2, 6, 2, 9]
 
+listwrited = []
+
+for i in my_list:
+    if i in listwrited:
+        continue
+    else:
+        listwrited.append(i)
+
+my_list = listwrited
+print("La lista con elementos únicos:")
+print(my_list)
