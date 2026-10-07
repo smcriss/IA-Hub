@@ -55,3 +55,57 @@ for i in range(len(test_data)):
         print("OK")
     else:
         print("Error")
+
+
+# Mes real vs indice de una lista
+# --------------------------------
+# Para una persona, los meses se expresan como 1-12:
+# enero = 1, febrero = 2, ..., diciembre = 12.
+#
+# Pero las listas de Python empiezan en el indice 0:
+# indice 0 = enero, indice 1 = febrero, ..., indice 11 = diciembre.
+#
+# Por eso usamos month - 1 SOLO al momento de buscar dentro de la lista.
+# La funcion sigue recibiendo meses normales (1-12), y ella misma traduce
+# ese valor al indice que necesita internamente.
+#
+# Ejemplo:
+# month = 2  -> febrero
+# month - 1 = 1
+# days[1] = 28
+#
+# La idea es que quien use la funcion pueda escribir:
+# days_in_month(2024, 2)
+# y entender naturalmente que 2 significa febrero.
+
+
+def days_in_month(year, month):
+    if year < 1582 or month < 1 or month > 12:
+        return None
+
+    days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+
+    # Convertimos temporalmente el numero de mes (1-12)
+    # al indice de la lista (0-11).
+    res = days[month - 1]
+
+    if month == 2 and is_year_leap(year):
+        res = 29
+
+    return res
+
+
+test_years = [1900, 2000, 2016, 1987]
+test_months = [2, 2, 1, 11]
+test_results = [28, 29, 31, 30]
+
+for i in range(len(test_years)):
+    yr = test_years[i]
+    mo = test_months[i]
+    print(yr, mo, "-> ", end="")
+    result = days_in_month(yr, mo)
+
+    if result == test_results[i]:
+        print("OK")
+    else:
+        print("Fallido")
