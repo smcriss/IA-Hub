@@ -109,3 +109,39 @@ for i in range(len(test_years)):
         print("OK")
     else:
         print("Fallido")
+
+
+# Dia del año
+# ----------
+# Esta funcion reutiliza days_in_month() para sumar los dias
+# de todos los meses anteriores y luego agrega el dia actual.
+#
+# Ejemplo:
+# day_of_year(2024, 3, 10)
+# enero = 31
+# febrero = 29
+# dia actual = 10
+# total = 31 + 29 + 10 = 70
+
+def day_of_year(year, month, day):
+    days = 0
+
+    for m in range(1, month):
+        md = days_in_month(year, m)
+        if md is None:
+            return None
+        days += md
+
+    md = days_in_month(year, month)
+
+    if md is None:
+        return None
+
+    if day >= 1 and day <= md:
+        days += day
+        return days
+    else:
+        return None
+
+
+print(day_of_year(2000, 12, 31))
