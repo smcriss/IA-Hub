@@ -36,7 +36,7 @@ My current goal is to stop treating each concept as an isolated exercise and con
 
 - `python-learning/` — current Python exercises and learning scripts
 - `notes/` — planned space for notes, explanations and summaries
-- `projects/` — planned space for practical projects
+- `projects/` — practical projects, starting with ConcenTrack, a Python program for tracking study sessions
 - `ai-router/` — future area for experiments related to connecting and organising AI tools
 
 The repository will evolve as these areas are developed. The structure is part of the learning process, not a claim that every planned component is already finished.
@@ -95,7 +95,7 @@ Mein aktuelles Ziel ist es, die einzelnen Konzepte nicht mehr nur getrennt zu ü
 
 - `python-learning/` — aktuelle Python-Übungen und Lernskripte
 - `notes/` — geplanter Bereich für Notizen, Erklärungen und Zusammenfassungen
-- `projects/` — geplanter Bereich für praktische Projekte
+- `projects/` — praktische Projekte, beginnend mit ConcenTrack, einem Python-Programm zum Erfassen von Lernsitzungen
 - `ai-router/` — zukünftiger Bereich für Experimente zum Verbinden und Organisieren von KI-Werkzeugen
 
 Das Repository wird sich weiterentwickeln, sobald diese Bereiche aufgebaut werden. Die Struktur beschreibt deshalb auch die Richtung des Projekts und bedeutet nicht, dass jede geplante Komponente bereits fertig ist.
