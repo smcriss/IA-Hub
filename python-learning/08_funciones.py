@@ -145,3 +145,25 @@ def day_of_year(year, month, day):
 
 
 print(day_of_year(2000, 12, 31))
+
+
+# Conversión del consumo de combustible
+# -------------------------------------
+
+def liters_100km_to_miles_gallon(liters):
+    miles = 100000 / 1609.344
+    gallons = liters / 3.785411784
+    miles_per_gallon = miles / gallons
+    return miles_per_gallon
+
+def miles_gallon_to_liters_100km(miles):
+    kilometer = miles * 1609.344 / 1000
+    liters = 3.785411784 / kilometer * 100
+    return liters
+
+print(liters_100km_to_miles_gallon(3.9))
+print(liters_100km_to_miles_gallon(7.5))
+print(liters_100km_to_miles_gallon(10.))
+print(miles_gallon_to_liters_100km(60.3))
+print(miles_gallon_to_liters_100km(31.4))
+print(miles_gallon_to_liters_100km(23.5))
