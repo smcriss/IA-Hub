@@ -8,25 +8,25 @@
 ![GitHub](https://img.shields.io/badge/GitHub-IA_Hub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Learning in progress](https://img.shields.io/badge/Status-Active_Learning-0E7490?style=for-the-badge)
 
-IA-Hub is my personal learning and practice project. I am building it step by step from home while learning Python, Linux, Git/GitHub, PC hardware and general IT fundamentals.
+IA-Hub is my personal learning and practice project. I am building it step by step from home while learning Python, Linux, Git/GitHub, PC hardware/software and general IT fundamentals.
 
-This repository is not meant to present a finished product. It is a place where I can practise, document what I learn and see my progress over time. I want to understand the tools I use instead of simply copying solutions, so the project grows together with my knowledge.
+This repository is not meant to present a finished product. It is a place where I can practice, document what I learn and see my progress over time. I want to understand the tools I use instead of simply copying solutions, so the project grows together with my knowledge.
 
-## Why I am building it 🌱
+## Why I am building it:
 
 I want to create a practical environment where learning and building happen together. Each exercise gives me a chance to understand a new concept, use it in practice and keep a record of the progress.
 
 The long-term idea is to gradually develop my own personal, automated AI hub: a useful space where different AI tools, models and workflows can be brought together and used from one place. In the future, this could include an AI router that helps organise how different models and tools are used.
 
-The final system does not exist yet. IA-Hub is the learning path that should help me build it properly, one understandable step at a time.
+The final system does not exist yet.
 
-## Current learning focus 🧩
+## Current learning path !
 
 - **Python development:** building interactive mini-programs by combining program flow, data structures, functions, user input and validation
 - **Problem-solving:** breaking problems into steps, designing the logic, testing results and correcting errors
 - **Development environment:** Ubuntu, terminal usage, VS Code, Python virtual environments and `pip`
 - **Git & GitHub:** organising the repository, tracking changes, creating commits and documenting progress
-- **Cisco Python course:** progressing through Python Essentials and applying the material through independent practice
+- **Cisco Python Essentials:** progressing through Python Essentials 1 and later 2, and applying the material through independent practice
 - **Next steps:** strengthen structured Python → work with modules and files → learn error handling and data storage → use JSON and APIs → create automation scripts → experiment with an AI router
 
 My current goal is to stop treating each concept as an isolated exercise and connect them in increasingly complete programs. Each new stage of the repository should prepare a practical part of the future IA-Hub instead of adding features without understanding them.
@@ -35,14 +35,14 @@ My current goal is to stop treating each concept as an isolated exercise and con
 
 - `python-learning/` — current Python exercises and learning scripts
 - `notes/` — planned space for notes, explanations and summaries
-- `projects/` — practical projects, starting with ConcenTrack, a Python program for tracking study sessions
+- `projects/` — practical projects, starting with ConcenTrack !
 - `ai-router/` — future area for experiments related to connecting and organising AI tools
 
-The repository will evolve as these areas are developed. The structure is part of the learning process, not a claim that every planned component is already finished.
+The structure is part of the learning process, not a claim that every planned component is already finished.
 
 ## Learning approach 🛠️
 
-I work with small, regular exercises and try to understand each step before moving forward. I use VS Code, Ubuntu, Git and online learning resources, including a Cisco Python course, while keeping the work organised in GitHub.
+I work with small, regular exercises and try to understand each step before moving forward. I use VS Code, Ubuntu, Git and online learning resources, including the Cisco Python course Python Essencials 1 and 2, while keeping the work organised in GitHub.
 
 The goal is to build steadily: learn a concept, practise it, document it and eventually connect it to something more useful.
 
@@ -52,7 +52,7 @@ The goal is to build steadily: learn a concept, practise it, document it and eve
 
 [![GitHub profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss) — background, interests and other projects
 
-**Status:** active learning project — updated as I continue learning.
+**Status:** active learning project.
 
 ---
 
