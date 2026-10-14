@@ -66,25 +66,25 @@ The goal is to build steadily: learn a concept, practise it, document it and eve
 ![GitHub](https://img.shields.io/badge/GitHub-IA_Hub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Lernen läuft](https://img.shields.io/badge/Status-Aktives_Lernen-0E7490?style=for-the-badge)
 
-IA-Hub ist mein persönliches Lern- und Praxisprojekt. Ich baue es Schritt für Schritt zu Hause auf und lerne dabei Python, Linux, Git/GitHub, PC-Hardware und allgemeine IT-Grundlagen.
+IA-Hub ist mein persönliches Lern- und Praxisprojekt. Ich baue es Schritt für Schritt zu Hause auf und lerne dabei Python, Linux, Git/GitHub, PC-Hardware/-Software und allgemeine IT-Grundlagen.
 
 Dieses Repository soll kein fertiges Produkt darstellen. Es ist ein Ort, an dem ich üben, meine Lerninhalte dokumentieren und meine Fortschritte über längere Zeit sichtbar machen kann. Ich möchte die Werkzeuge, die ich benutze, wirklich verstehen und nicht einfach nur Lösungen kopieren. Deshalb wächst das Projekt zusammen mit meinen Kenntnissen.
 
-## Warum ich es aufbaue 🌱
+## Warum ich es aufbaue:
 
 Ich möchte eine praktische Umgebung schaffen, in der Lernen und Bauen miteinander verbunden sind. Jede Übung hilft mir dabei, ein neues Konzept zu verstehen, es praktisch anzuwenden und meinen Fortschritt festzuhalten.
 
 Die langfristige Idee ist, Schritt für Schritt meinen eigenen persönlichen und automatisierten KI-Hub zu entwickeln: einen nützlichen Ort, an dem verschiedene KI-Werkzeuge, Modelle und Workflows miteinander verbunden und von einer Stelle aus genutzt werden können. Später könnte daraus auch ein AI-Router entstehen, der dabei hilft, verschiedene Modelle und Werkzeuge zu organisieren.
 
-Dieses endgültige System existiert noch nicht. IA-Hub ist der Lernweg, mit dem ich es später richtig und nachvollziehbar aufbauen möchte — Schritt für Schritt und mit einem Verständnis für jeden einzelnen Teil.
+Dieses endgültige System existiert noch nicht.
 
-## Aktueller Lernfokus 🧩
+## Mein aktueller Lernweg !
 
 - **Python-Entwicklung:** Entwicklung interaktiver Miniprogramme durch die Verbindung von Programmabläufen, Datenstrukturen, Funktionen, Benutzereingaben und Validierung
 - **Logisches Denken:** Probleme in einzelne Schritte zerlegen, die Programmlogik planen, Ergebnisse testen und Fehler korrigieren
 - **Entwicklungsumgebung:** Ubuntu, Terminal, VS Code, virtuelle Python-Umgebungen und `pip`
 - **Git & GitHub:** Repository organisieren, Änderungen verfolgen, Commits erstellen und Fortschritte dokumentieren
-- **Cisco-Pythonkurs:** Fortschritt in Python Essentials und selbstständige Anwendung der Lerninhalte
+- **Cisco Python Essentials:** Ich arbeite an Python Essentials 1 und werde danach Python Essentials 2 absolvieren. Das Gelernte wende ich durch selbstständige Übungen an
 - **Nächste Schritte:** strukturiertes Python festigen → mit Modulen und Dateien arbeiten → Fehlerbehandlung und Datenspeicherung lernen → JSON und APIs verwenden → Automatisierungsskripte entwickeln → mit einem AI-Router experimentieren
 
 Mein aktuelles Ziel ist es, die einzelnen Konzepte nicht mehr nur getrennt zu üben, sondern sie in zunehmend vollständigeren Programmen miteinander zu verbinden. Jede neue Entwicklungsstufe des Repositories soll einen praktischen Teil des zukünftigen IA-Hubs vorbereiten, ohne Funktionen hinzuzufügen, die ich noch nicht verstehe.
@@ -93,14 +93,14 @@ Mein aktuelles Ziel ist es, die einzelnen Konzepte nicht mehr nur getrennt zu ü
 
 - `python-learning/` — aktuelle Python-Übungen und Lernskripte
 - `notes/` — geplanter Bereich für Notizen, Erklärungen und Zusammenfassungen
-- `projects/` — praktische Projekte, beginnend mit ConcenTrack, einem Python-Programm zum Erfassen von Lernsitzungen
+- `projects/` — praktische Projekte, beginnend mit ConcenTrack !
 - `ai-router/` — zukünftiger Bereich für Experimente zum Verbinden und Organisieren von KI-Werkzeugen
 
-Das Repository wird sich weiterentwickeln, sobald diese Bereiche aufgebaut werden. Die Struktur beschreibt deshalb auch die Richtung des Projekts und bedeutet nicht, dass jede geplante Komponente bereits fertig ist.
+Die Struktur ist Teil des Lernprozesses und bedeutet nicht, dass jede geplante Komponente bereits fertig ist.
 
 ## Meine Lernmethode 🛠️
 
-Ich arbeite mit kleinen, regelmäßigen Übungen und versuche, jeden Schritt zu verstehen, bevor ich weitermache. Dafür nutze ich VS Code, Ubuntu, Git und Online-Lernmaterial, unter anderem einen Cisco-Pythonkurs, und organisiere meine Fortschritte in GitHub.
+Ich arbeite mit kleinen, regelmäßigen Übungen und versuche, jeden Schritt zu verstehen, bevor ich weitermache. Dafür nutze ich VS Code, Ubuntu, Git und Online-Lernmaterial, darunter den Cisco-Pythonkurs Python Essentials 1 und 2, und organisiere meine Arbeit auf GitHub.
 
 Mein Ziel ist ein kontinuierlicher Aufbau: ein Konzept lernen, es praktisch anwenden, dokumentieren und später mit etwas Nützlicherem verbinden.
 
@@ -110,4 +110,4 @@ Mein Ziel ist ein kontinuierlicher Aufbau: ein Konzept lernen, es praktisch anwe
 
 [![GitHub-Profil](https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss) — Hintergrund, Interessen und weitere Projekte
 
-**Status:** aktives Lernprojekt — wird während meines Lernwegs regelmäßig erweitert.
+**Status:** aktives Lernprojekt.
