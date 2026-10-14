@@ -167,3 +167,29 @@ print(liters_100km_to_miles_gallon(10.))
 print(miles_gallon_to_liters_100km(60.3))
 print(miles_gallon_to_liters_100km(31.4))
 print(miles_gallon_to_liters_100km(23.5))
+
+
+# Recursive Function: fun
+
+def fun(a):
+    if a > 30:
+        return 3
+    else:
+        return a + fun(a + 3)
+
+
+# Recursive Fibonacci
+
+def fib(n):
+    if n < 1:
+        return None
+    if n < 3:
+        return 1
+    return fib(n - 1) + fib(n - 2)
+
+
+# Function Tests
+
+print(fun(25))
+for n in range(1, 10):
+    print(n, "->", fib(n))
