@@ -20,18 +20,6 @@ The long-term idea is to gradually develop my own personal, automated AI hub: a 
 
 The final system does not exist yet. IA-Hub is the learning path that should help me build it properly, one understandable step at a time.
 
-## Current learning focus 🧩
-
-- **Python development:** building interactive mini-programs by combining program flow, data structures, functions, user input and validation
-- **Problem-solving:** breaking problems into steps, designing the logic, testing results and correcting errors
-- **Current concepts:** binary representation, bitwise operators and bit masks
-- **Development environment:** Ubuntu, terminal usage, VS Code, Python virtual environments and `pip`
-- **Git & GitHub:** organising the repository, tracking changes, creating commits and documenting progress
-- **Cisco Python course:** progressing through Python Essentials and applying the material through independent practice
-- **Next steps:** strengthen structured Python → work with modules and files → learn error handling and data storage → use JSON and APIs → create automation scripts → experiment with an AI router
-
-My current goal is to stop treating each concept as an isolated exercise and connect them in increasingly complete programs. Each new stage of the repository should prepare a practical part of the future IA-Hub instead of adding features without understanding them.
-
 ## Repository structure 📁
 
 - `python-learning/` — current Python exercises and learning scripts
@@ -78,18 +66,6 @@ Ich möchte eine praktische Umgebung schaffen, in der Lernen und Bauen miteinand
 Die langfristige Idee ist, Schritt für Schritt meinen eigenen persönlichen und automatisierten KI-Hub zu entwickeln: einen nützlichen Ort, an dem verschiedene KI-Werkzeuge, Modelle und Workflows miteinander verbunden und von einer Stelle aus genutzt werden können. Später könnte daraus auch ein AI-Router entstehen, der dabei hilft, verschiedene Modelle und Werkzeuge zu organisieren.
 
 Dieses endgültige System existiert noch nicht. IA-Hub ist der Lernweg, mit dem ich es später richtig und nachvollziehbar aufbauen möchte — Schritt für Schritt und mit einem Verständnis für jeden einzelnen Teil.
-
-## Aktueller Lernfokus 🧩
-
-- **Python-Entwicklung:** Entwicklung interaktiver Miniprogramme durch die Verbindung von Programmabläufen, Datenstrukturen, Funktionen, Benutzereingaben und Validierung
-- **Logisches Denken:** Probleme in einzelne Schritte zerlegen, die Programmlogik planen, Ergebnisse testen und Fehler korrigieren
-- **Aktuelle Themen:** Binärdarstellung, bitweise Operatoren und Bitmasken
-- **Entwicklungsumgebung:** Ubuntu, Terminal, VS Code, virtuelle Python-Umgebungen und `pip`
-- **Git & GitHub:** Repository organisieren, Änderungen verfolgen, Commits erstellen und Fortschritte dokumentieren
-- **Cisco-Pythonkurs:** Fortschritt in Python Essentials und selbstständige Anwendung der Lerninhalte
-- **Nächste Schritte:** strukturiertes Python festigen → mit Modulen und Dateien arbeiten → Fehlerbehandlung und Datenspeicherung lernen → JSON und APIs verwenden → Automatisierungsskripte entwickeln → mit einem AI-Router experimentieren
-
-Mein aktuelles Ziel ist es, die einzelnen Konzepte nicht mehr nur getrennt zu üben, sondern sie in zunehmend vollständigeren Programmen miteinander zu verbinden. Jede neue Entwicklungsstufe des Repositories soll einen praktischen Teil des zukünftigen IA-Hubs vorbereiten, ohne Funktionen hinzuzufügen, die ich noch nicht verstehe.
 
 ## Repository-Struktur 📁
 
