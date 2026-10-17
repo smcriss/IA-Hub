@@ -1,6 +1,6 @@
 # IA-Hub 🤖
 
-> A practical learning project for Python, Linux, Git/GitHub, IT fundamentals and the future development of a personal automated AI hub.
+> A practical learning project for Python, Linux, Git/GitHub and IT fundamentals.
 
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -10,15 +10,12 @@
 
 IA-Hub is my personal learning and practice project. I am building it step by step from home while learning Python, Linux, Git/GitHub, PC hardware/software and general IT fundamentals.
 
-This repository is not meant to present a finished product. It is a place where I can practice, document what I learn and see my progress over time. I want to understand the tools I use instead of simply copying solutions, so the project grows together with my knowledge.
+It is a place where I can practice, document what I learn and see my progress over time. I want to understand the tools I use instead of simply copying solutions, so the project grows together with my knowledge.
 
-## Why I am building it:
+## Repository structure 📁
 
-I want to create a practical environment where learning and building happen together. Each exercise gives me a chance to understand a new concept, use it in practice and keep a record of the progress.
-
-The long-term idea is to gradually develop my own personal, automated AI hub: a useful space where different AI tools, models and workflows can be brought together and used from one place. In the future, this could include an AI router that helps organise how different models and tools are used.
-
-The final system does not exist yet.
+- [`python-learning/`](python-learning/) — Python exercises covering variables, conditions, loops, lists, dictionaries, functions and recursion
+- [`projects/`](projects/) — small practical programs, including [ConcenTrack](projects/concentrack.py), a terminal program for recording study sessions by subject and summarising study time
 
 ## Current learning path !
 
@@ -27,28 +24,26 @@ The final system does not exist yet.
 - **Development environment:** Ubuntu, terminal usage, VS Code, Python virtual environments and `pip`
 - **Git & GitHub:** organising the repository, tracking changes, creating commits and documenting progress
 - **Cisco Python Essentials:** progressing through Python Essentials 1 and later 2, and applying the material through independent practice
-- **Next steps:** strengthen structured Python → work with modules and files → learn error handling and data storage → use JSON and APIs → create automation scripts → experiment with an AI router
 
-My current goal is to stop treating each concept as an isolated exercise and connect them in increasingly complete programs. Each new stage of the repository should prepare a practical part of the future IA-Hub instead of adding features without understanding them.
+My current goal is to connect individual concepts in increasingly complete programs.
 
-## Repository structure 📁
+## Why I am building it
 
-- `python-learning/` — current Python exercises and learning scripts
-- `notes/` — planned space for notes, explanations and summaries
-- `projects/` — practical projects, starting with ConcenTrack !
-- `ai-router/` — future area for experiments related to connecting and organising AI tools
-
-The structure is part of the learning process, not a claim that every planned component is already finished.
+I want to create a practical environment where learning and building happen together. Each exercise gives me a chance to understand a new concept, use it in practice and keep a record of the progress.
 
 ## Learning approach 🛠️
 
-I work with small, regular exercises and try to understand each step before moving forward. I use VS Code, Ubuntu, Git and online learning resources, including the Cisco Python course Python Essencials 1 and 2, while keeping the work organised in GitHub.
+I work with small, regular exercises and try to understand each step before moving forward. I use VS Code, Ubuntu, Git and online learning resources, including the Cisco Python course Python Essentials 1 and 2, while keeping the work organised in GitHub.
 
 The goal is to build steadily: learn a concept, practise it, document it and eventually connect it to something more useful.
 
-## Related repositories 🔗
+## Future direction
 
-[![Python practice](https://img.shields.io/badge/Python-Practice_Repository-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep) — additional Python practice
+The long-term idea is to gradually develop my own personal, automated AI hub: a useful space where different AI tools, models and workflows can be brought together and used from one place.
+
+Next steps include working with modules and files, error handling and data storage, then JSON, APIs and automation scripts. Planned areas include `notes/` for explanations and summaries, and `ai-router/` for future experiments with AI tools.
+
+## About me 🔗
 
 [![GitHub profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss) — background, interests and other projects
 
@@ -58,7 +53,7 @@ The goal is to build steadily: learn a concept, practise it, document it and eve
 
 # IA-Hub 🤖
 
-> Ein praktisches Lernprojekt für Python, Linux, Git/GitHub, IT-Grundlagen und die spätere Entwicklung eines persönlichen automatisierten KI-Hubs.
+> Ein praktisches Lernprojekt für Python, Linux, Git/GitHub und IT-Grundlagen.
 
 ![Python](https://img.shields.io/badge/Python-Lernen-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -68,15 +63,12 @@ The goal is to build steadily: learn a concept, practise it, document it and eve
 
 IA-Hub ist mein persönliches Lern- und Praxisprojekt. Ich baue es Schritt für Schritt zu Hause auf und lerne dabei Python, Linux, Git/GitHub, PC-Hardware/-Software und allgemeine IT-Grundlagen.
 
-Dieses Repository soll kein fertiges Produkt darstellen. Es ist ein Ort, an dem ich üben, meine Lerninhalte dokumentieren und meine Fortschritte über längere Zeit sichtbar machen kann. Ich möchte die Werkzeuge, die ich benutze, wirklich verstehen und nicht einfach nur Lösungen kopieren. Deshalb wächst das Projekt zusammen mit meinen Kenntnissen.
+Es ist ein Ort, an dem ich üben, meine Lerninhalte dokumentieren und meine Fortschritte über längere Zeit sichtbar machen kann. Ich möchte die Werkzeuge, die ich benutze, wirklich verstehen und nicht einfach nur Lösungen kopieren. Deshalb wächst das Projekt zusammen mit meinen Kenntnissen.
 
-## Warum ich es aufbaue:
+## Repository-Struktur 📁
 
-Ich möchte eine praktische Umgebung schaffen, in der Lernen und Bauen miteinander verbunden sind. Jede Übung hilft mir dabei, ein neues Konzept zu verstehen, es praktisch anzuwenden und meinen Fortschritt festzuhalten.
-
-Die langfristige Idee ist, Schritt für Schritt meinen eigenen persönlichen und automatisierten KI-Hub zu entwickeln: einen nützlichen Ort, an dem verschiedene KI-Werkzeuge, Modelle und Workflows miteinander verbunden und von einer Stelle aus genutzt werden können. Später könnte daraus auch ein AI-Router entstehen, der dabei hilft, verschiedene Modelle und Werkzeuge zu organisieren.
-
-Dieses endgültige System existiert noch nicht.
+- [`python-learning/`](python-learning/) — Python-Übungen zu Variablen, Bedingungen, Schleifen, Listen, Dictionaries, Funktionen und Rekursion
+- [`projects/`](projects/) — kleine praktische Programme, darunter [ConcenTrack](projects/concentrack.py), ein Terminalprogramm zum Erfassen von Lernsitzungen nach Fach und zum Zusammenfassen der Lernzeit
 
 ## Mein aktueller Lernweg !
 
@@ -85,18 +77,12 @@ Dieses endgültige System existiert noch nicht.
 - **Entwicklungsumgebung:** Ubuntu, Terminal, VS Code, virtuelle Python-Umgebungen und `pip`
 - **Git & GitHub:** Repository organisieren, Änderungen verfolgen, Commits erstellen und Fortschritte dokumentieren
 - **Cisco Python Essentials:** Ich arbeite an Python Essentials 1 und werde danach Python Essentials 2 absolvieren. Das Gelernte wende ich durch selbstständige Übungen an
-- **Nächste Schritte:** strukturiertes Python festigen → mit Modulen und Dateien arbeiten → Fehlerbehandlung und Datenspeicherung lernen → JSON und APIs verwenden → Automatisierungsskripte entwickeln → mit einem AI-Router experimentieren
 
-Mein aktuelles Ziel ist es, die einzelnen Konzepte nicht mehr nur getrennt zu üben, sondern sie in zunehmend vollständigeren Programmen miteinander zu verbinden. Jede neue Entwicklungsstufe des Repositories soll einen praktischen Teil des zukünftigen IA-Hubs vorbereiten, ohne Funktionen hinzuzufügen, die ich noch nicht verstehe.
+Mein aktuelles Ziel ist es, einzelne Konzepte in zunehmend vollständigeren Programmen miteinander zu verbinden.
 
-## Repository-Struktur 📁
+## Warum ich es aufbaue
 
-- `python-learning/` — aktuelle Python-Übungen und Lernskripte
-- `notes/` — geplanter Bereich für Notizen, Erklärungen und Zusammenfassungen
-- `projects/` — praktische Projekte, beginnend mit ConcenTrack !
-- `ai-router/` — zukünftiger Bereich für Experimente zum Verbinden und Organisieren von KI-Werkzeugen
-
-Die Struktur ist Teil des Lernprozesses und bedeutet nicht, dass jede geplante Komponente bereits fertig ist.
+Ich möchte eine praktische Umgebung schaffen, in der Lernen und Bauen miteinander verbunden sind. Jede Übung hilft mir dabei, ein neues Konzept zu verstehen, es praktisch anzuwenden und meinen Fortschritt festzuhalten.
 
 ## Meine Lernmethode 🛠️
 
@@ -104,9 +90,13 @@ Ich arbeite mit kleinen, regelmäßigen Übungen und versuche, jeden Schritt zu 
 
 Mein Ziel ist ein kontinuierlicher Aufbau: ein Konzept lernen, es praktisch anwenden, dokumentieren und später mit etwas Nützlicherem verbinden.
 
-## Verwandte Repositories 🔗
+## Langfristige Richtung
 
-[![Python-Übungen](https://img.shields.io/badge/Python-Uebungsrepository-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep) — zusätzliche Python-Übungen
+Die langfristige Idee ist, Schritt für Schritt meinen eigenen persönlichen und automatisierten KI-Hub zu entwickeln: einen nützlichen Ort, an dem verschiedene KI-Werkzeuge, Modelle und Workflows miteinander verbunden und von einer Stelle aus genutzt werden können.
+
+Zu den nächsten Schritten gehören Module und Dateien, Fehlerbehandlung und Datenspeicherung, danach JSON, APIs und Automatisierungsskripte. Geplant sind außerdem `notes/` für Erklärungen und Zusammenfassungen sowie `ai-router/` für zukünftige Experimente mit KI-Werkzeugen.
+
+## Über mich 🔗
 
 [![GitHub-Profil](https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss) — Hintergrund, Interessen und weitere Projekte
 
