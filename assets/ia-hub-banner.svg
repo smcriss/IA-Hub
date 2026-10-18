@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+<title id="title">IA-Hub — Learn. Build. Connect.</title>
+<desc id="desc">A dark blue, turquoise and violet banner for smcriss's learning project, with connected nodes representing Python, Linux and Git.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2=".7"><stop stop-color="#101b39"/><stop offset=".55" stop-color="#302158"/><stop offset="1" stop-color="#073e50"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a9c4da" stroke-opacity=".06"/></pattern>
+</defs>
+<rect width="1200" height="240" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="240" rx="18" fill="url(#grid)"/>
+<rect x="48" y="39" width="62" height="4" rx="2" fill="#5eead4"/>
+<text x="48" y="118" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="url(#accent)">IA-Hub</text>
+<text x="51" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="24" fill="#e1e9f3">Learn. Build. Connect.</text>
+<text x="51" y="198" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2" fill="#9db6cc">BY smcriss</text>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".6"><path d="M785 70L945 120L785 170M945 120H1090"/><circle cx="945" cy="120" r="33"/><circle cx="945" cy="120" r="43" opacity=".25"/></g>
+<g fill="#142740" stroke="#507d94"><rect x="670" y="46" width="144" height="48" rx="13"/><rect x="670" y="146" width="144" height="48" rx="13"/><rect x="1040" y="96" width="112" height="48" rx="13"/></g>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="20" text-anchor="middle"><text x="742" y="77" fill="#5eead4">Python</text><text x="742" y="177" fill="#8bbcff">Linux</text><text x="1096" y="127" fill="#cfadff">Git</text></g>
+<text x="945" y="127" font-family="Consolas,monospace" font-size="24" text-anchor="middle" fill="#e1e9f3">&lt;/&gt;</text>
+<path d="M18 238H1182" stroke="url(#accent)" stroke-width="3"/>
+</svg>
