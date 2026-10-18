@@ -21,7 +21,7 @@ In IA-Hub setze ich mein Wissen praktisch um: Ich schreibe Code, erkunde Entwick
 
 ## Kenntnisse & Werkzeuge
 
-- **Python:** Grundkenntnisse aus den Python-Essentials-Kursen der Cisco Networking Academy und selbstständigen Übungen.
+- **Python:** Grundkenntnisse durch die Cisco Networking Academy und selbstständige Übungen. [Python Essentials 1](https://www.credly.com/badges/aa5b4306-264d-4bfe-bfcf-1bbcf4779fe6/public_url) am 18.10.2026 abgeschlossen; Python Essentials 2 in Bearbeitung.
 - **Linux & Entwicklungswerkzeuge:** praktische Erfahrung mit Ubuntu, dem Terminal, VS Code, virtuellen Umgebungen und Paketverwaltung.
 - **Git & GitHub:** Versionskontrolle, Commits, Organisation von Repositories und Dokumentation.
 

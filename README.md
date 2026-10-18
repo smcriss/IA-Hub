@@ -21,7 +21,7 @@ IA-Hub is where I put my learning into practice: writing code, exploring develop
 
 ## Knowledge & tools
 
-- **Python:** foundational knowledge developed through Cisco Networking Academy's Python Essentials courses and independent practice.
+- **Python:** foundational knowledge developed through Cisco Networking Academy and independent practice. [Python Essentials 1](https://www.credly.com/badges/aa5b4306-264d-4bfe-bfcf-1bbcf4779fe6/public_url) completed on 18 October 2026; Python Essentials 2 in progress.
 - **Linux & development tools:** practical experience with Ubuntu, the terminal, VS Code, virtual environments and package management.
 - **Git & GitHub:** version control, commits, repository organisation and documentation.
 
